@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./clythix.png" alt="Clythix" width="900">
+  <img src="./Clythix.png" alt="Clythix" width="900">
 </p>
